@@ -7,6 +7,17 @@
 - ⚡ Fun fact: ...Did you know? AI can beat humans at games like chess and Go, showcasing its remarkable problem-solving abilities!
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavour-EBEN)](https://github.com/anuraghazra/github-readme-stats)
+- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Adjanour&theme=carbonfox" height="220" alt="streak graph" />
+  <picture align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Adjanour&show_icons=true&theme=radical" />
+</picture>
+</div><br>
+
+<div align="center"> 
+  Copyright © Africoda
+</div>
+
 
 <!---
 Phavour-EBEN/Phavour-EBEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
