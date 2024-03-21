@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Machine learning 
 - 💞️ I’m looking to collaborate on ... anything that interests you.
 - 📫 How to reach me ... ainooebenezer05@gmail.com,
-- 😄 Pronouns: ...HE
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...Did you know? AI can beat humans at games like chess and Go, showcasing its remarkable problem-solving abilities!
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavour-EBEN)](https://github.com/anuraghazra/github-readme-stats)
 
