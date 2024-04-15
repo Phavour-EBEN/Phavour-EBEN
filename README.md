@@ -12,6 +12,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Phavour-EBEN&show_icons=true&theme=radical" />
 </picture>
 </div><br>
+<div align="center">
+  <picture align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phavour-EBEN&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</picture>
+</div>
 
 <div align="center"> 
   Copyright © Africoda
