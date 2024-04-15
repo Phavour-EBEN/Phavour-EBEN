@@ -1,3 +1,28 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
+  
+  ## Hi there, I'm Amoaba Kelvin.
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/kelvin-amoaba-851650224">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/kelamoaba">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://dev.to/amoabakelvin">
+    <img src="https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
+  </a>
+  <a href="http://www.kelvinamoaba.me">
+    <img src="https://img.shields.io/badge/WEBSITE-greenblue?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="website Badge"/>
+  </a>
+  <a href="https://t.me/a_moaba">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+  </a>
+</div>
+</div> 
+
+<br> 
+
 - 👋 Hi, I’m Phavour@EBEN, oh yeah I am Ainoo Ebenezer Tutu😊 from Ghana.I'm a Visionary Computer Scientist & Engineer | Pioneering Robotics & AI Solutions for Tomorrow's World. I really enjoy learning computer vision.
 - 👀 I’m interested in ... Robotics and Artificial Intelligence
 - 🌱 I’m currently learning ... Machine learning 
