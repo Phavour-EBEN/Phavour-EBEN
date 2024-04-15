@@ -1,23 +1,26 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
   
-  ## Hi there, I'm Amoaba Kelvin.
+  ## Hi there, I’m Phavour@EBEN.
   <div id="badges">
-  <a href="https://www.linkedin.com/in/kelvin-amoaba-851650224">
+  <a href="www.linkedin.com/in/ebenezer-ainoo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/kelamoaba">
+  <a href="https://twitter.com/EBEN_PHAVOUR">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://dev.to/amoabakelvin">
+  <a href="https://dev.to/phavour_eben">
     <img src="https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
   </a>
-  <a href="http://www.kelvinamoaba.me">
+<!--   <a href="http://www.kelvinamoaba.me">
     <img src="https://img.shields.io/badge/WEBSITE-greenblue?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="website Badge"/>
-  </a>
-  <a href="https://t.me/a_moaba">
+  </a> -->
+<!--   <a href="https://t.me/a_moaba">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-  </a>
+  </a> -->
+   <a href="https://www.instagram.com/ebenezer.ainoo.752">
+       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+   </a>
 </div>
 </div> 
 
