@@ -34,6 +34,14 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Did you know? AI can beat humans at games like chess and Go, showcasing its remarkable problem-solving abilities!
 
+- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Phavour-EBEN&label=Profile%20views&color=0e75b6&style=flat" alt="Phavour-EBEN" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phavour-EBEN" alt="Phavour-EBEN" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/ayushsi69507942" target="blank"><img src="https://img.shields.io/twitter/follow/ayushsi69507942?logo=twitter&style=for-the-badge" alt="ayushsi69507942" /></a> </p>
+
+
+
 - <div align="center">
   <img src="https://streak-stats.demolab.com?user=Phavour-EBEN&theme=carbonfox" height="220" alt="streak graph" />
   <picture align="center" >
