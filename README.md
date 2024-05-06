@@ -2,16 +2,22 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
   
   ## Hi there, I’m Phavour@EBEN.
+  <h3 align="left">Connect with me:</h3>
   <div id="badges">
   <a href="www.linkedin.com/in/ebenezer-ainoo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.kaggle.com/phav0ur">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+
   <a href="https://twitter.com/EBEN_PHAVOUR">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://dev.to/phavour_eben">
     <img src="https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
   </a>
+  
 <!--   <a href="http://www.kelvinamoaba.me">
     <img src="https://img.shields.io/badge/WEBSITE-greenblue?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="website Badge"/>
   </a> -->
@@ -34,11 +40,11 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Did you know? AI can beat humans at games like chess and Go, showcasing its remarkable problem-solving abilities!
 
-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Phavour-EBEN&label=Profile%20views&color=0e75b6&style=flat" alt="Phavour-EBEN" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Phavour-EBEN&label=Profile%20views&color=0e75b6&style=flat" alt="Phavour-EBEN" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phavour-EBEN" alt="Phavour-EBEN" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/ayushsi69507942" target="blank"><img src="https://img.shields.io/twitter/follow/ayushsi69507942?logo=twitter&style=for-the-badge" alt="ayushsi69507942" /></a> </p>
+ </p>
 
 
 
