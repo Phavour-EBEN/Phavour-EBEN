@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Phavour-EBEN&label=Profile%20views&color=0e75b6&style=flat" alt="Phavour-EBEN" /> </p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
   
@@ -39,8 +40,8 @@
 - 📫 How to reach me ... ainooebenezer05@gmail.com,
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Did you know? AI can beat humans at games like chess and Go, showcasing its remarkable problem-solving abilities!
+  <br>
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Phavour-EBEN&label=Profile%20views&color=0e75b6&style=flat" alt="Phavour-EBEN" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phavour-EBEN" alt="Phavour-EBEN" /></a> </p>
 
@@ -88,7 +89,7 @@
 
 
 
-- <div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Phavour-EBEN&theme=carbonfox" height="220" alt="streak graph" />
   <picture align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Phavour-EBEN&show_icons=true&theme=radical" />
