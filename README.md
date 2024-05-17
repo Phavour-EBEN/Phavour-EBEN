@@ -39,7 +39,7 @@
 - 💞️ I’m looking to collaborate on ... anything that interests you.
 - 📫 How to reach me ... ainooebenezer05@gmail.com,
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Did you know? AI can beat humans at games like chess and Go, showcasing its remarkable problem-solving abilities!
+- ⚡ Fun fact: ...Did you know? AI can beat humans at games like chess and Go, showcasing its remarkable problem-solving abilities!!
   <br>
 
 
