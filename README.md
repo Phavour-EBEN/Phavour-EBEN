@@ -29,9 +29,7 @@
        <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
    </a>
 </div>
-</div> 
-
-<br> 
+</div><br>
 
 - 👋 Hi, I’m Phavour@EBEN, oh yeah I am Ainoo Ebenezer Tutu😊 from Ghana.I'm a Visionary Computer Scientist & Engineer | Pioneering Robotics & AI Solutions for Tomorrow's World. I really enjoy learning computer vision.
 - 👀 I’m interested in ... Robotics and Artificial Intelligence
