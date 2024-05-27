@@ -40,9 +40,9 @@
 - ⚡ Fun fact: ...Did you know? AI can beat humans at games like chess and Go, showcasing its remarkable problem-solving abilities!!!
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phavour-EBEN" alt="Phavour-EBEN" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phavour-EBEN" alt="Phavour-EBEN" /></a> </p><br>
 
- </p>
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
