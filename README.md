@@ -81,6 +81,10 @@
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
+  <a href="https://mediapipe.dev/" target="_blank">
+    <img src="https://google.github.io/mediapipe/images/mediapipe_logo.svg" alt="MediaPipe" width="40" height="40"/>
+</a>
+
 </p>
  </div>
 
