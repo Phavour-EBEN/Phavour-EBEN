@@ -19,10 +19,6 @@
     <img src="https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
   </a>
   
-  
-<!--   <a href="http://www.kelvinamoaba.me">
-    <img src="https://img.shields.io/badge/WEBSITE-greenblue?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="website Badge"/>
-  </a> -->
 <!--   <a href="https://t.me/a_moaba">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a> -->
