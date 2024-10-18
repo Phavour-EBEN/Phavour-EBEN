@@ -22,6 +22,7 @@
 <!--   <a href="https://t.me/a_moaba">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a> -->
+  
    <a href="https://www.instagram.com/ebenezer.ainoo.752">
        <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
    </a>
