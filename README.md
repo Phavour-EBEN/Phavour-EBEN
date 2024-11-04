@@ -103,7 +103,6 @@
 
 ##
 <h3 align="left">Git Stats</h3></br>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Phavour-EBEN&theme=carbonfox" height="220" alt="streak graph" />
   <picture align="center">
