@@ -5,7 +5,7 @@
   ## Hi there, I’m Phavour@EBEN.
   <h3 align="left">Connect with me:</h3>
   <div id="badges">
-  <a href="[www.linkedin.com/in/ebenezer-ainoo](https://www.linkedin.com/in/ebenezer-ainoo/)">
+  <a href="https://www.linkedin.com/in/ebenezer-ainoo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/phav0ur">
