@@ -26,7 +26,7 @@
 
 ##
 
-- 👋 Hi, I’m Phavour@EBEN, oh yeah I am Ainoo Ebenezer Tutu😊 from Ghana.I'm a Visionary Computer Scientist & Engineer | Pioneering Robotics & AI Solutions for Tomorrow's World. I really enjoy learning computer vision.
+- 👋 Hi, I’m Phavour@EBEN, oh yeah I am Ainoo Ebenezer Tutu😊 from Ghana.I'm a Visionary Computer Scientist & Engineer | Pioneering Robotics & AI Solutions for Tomorrow's World. I really enjoy learning Artificial Intelligence.
 - 👀 I’m interested in ... Robotics and Artificial Intelligence
 - 🌱 I’m currently learning ... OpenCV And Deep Learning 
 - 💞️ I’m looking to collaborate on ... anything that interests you.
