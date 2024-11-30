@@ -100,7 +100,6 @@
   </p>
 </div>
 
-
 ##
 <h3 align="left">Git Stats</h3></br>
 <div align="center">
