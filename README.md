@@ -26,7 +26,6 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ### 👋 About Me
