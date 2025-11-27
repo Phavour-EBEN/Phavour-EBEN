@@ -31,7 +31,7 @@
 ### 👋 About Me
 
 - 🧑‍💻 I’m Phavour@EBEN, aka **Ainoo Ebenezer Tutu**, from Ghana.
-- 💡 Visionary Computer Scientist & Engineer | Pioneering Robotics & AI Solutions.
+- 💡 Visionary Computer Scientist & Engineer | Pioneering Robotics & AI/ML Solutions.
 - 🤖 I enjoy learning and building in **Artificial Intelligence**.
 - 🔭 I’m currently learning **OpenCV** and **Deep Learning**.
 - 🤝 I’m looking to collaborate on anything that interests you.
