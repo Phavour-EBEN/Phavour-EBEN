@@ -131,14 +131,14 @@ me.say_hi()
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Phavour-EBEN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Phavour-EBEN&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Phavour-EBEN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Phavour-EBEN&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phavour-EBEN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Phavour-EBEN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Phavour-EBEN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9" />
 
 </div>
