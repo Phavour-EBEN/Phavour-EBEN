@@ -21,7 +21,7 @@ class PhavourEBEN:
         self.location = "Ghana 🌍"
         self.role = "AI/ML Engineer & Robotics/AI Tutor"
         self.certifications = ["AWS Cloud Practitioner"]
-        self.current_focus = ["LLMs", "RAG Systems", "AI Agents", "Agentic AI", "Django Backend"]
+        self.current_focus = ["Data Engineering", "Agentic Systems"]
         self.interests = ["Artificial Intelligence", "Large Language Models", "Autonomous Agents"]
         self.email = "ainooebenezer05@gmail.com"
         
@@ -43,7 +43,7 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebenezer-ainoo/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/phav0ur)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EBEN_PHAVOUR)
-[![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/phavour_eben)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ainoo.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebenezer.ainoo.752)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ainooebenezer05@gmail.com)
 
@@ -139,7 +139,13 @@ me.say_hi()
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Phavour-EBEN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Phavour-EBEN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 
 </div>
 
@@ -158,22 +164,21 @@ me.say_hi()
 ## 💼 Current Focus
 
 ```yaml
-Learning:
-  - Backend Development with Django
-  - REST APIs & Web Services
-  - Database Design & Optimization
+Data Engineering:
+  - Data Pipelines (ETL / ELT)
+  - Data Modeling & Warehousing
+  - Batch & Streaming Processing
+  - Data Quality & Orchestration
 
-Specializations:
-  - Large Language Models (LLMs)
+Agentic Systems:
+  - AI Agents & Multi-Agent Frameworks
+  - Tool Use & Agent Orchestration
   - Retrieval-Augmented Generation (RAG)
-  - AI Agents & Agentic AI Systems
-  - Multi-Agent Frameworks
-  - Prompt Engineering & Fine-tuning
+  - LLM Applications & Integration
 
 Interests:
+  - Data Infrastructure for AI
   - Autonomous AI Systems
-  - LLM Applications & Integration
-  - Agent-Based Architectures
   - Cloud Computing (AWS)
 ```
 
@@ -182,8 +187,8 @@ Interests:
 ## 🤝 Let's Collaborate!
 
 I'm always open to:
-- 🤖 LLM and AI Agent projects
-- 🔬 RAG systems and agentic AI research
+- 🛢️ Data engineering and data pipeline projects
+- 🤖 Agentic systems, AI agents, and RAG projects
 - 💡 Open source contributions
 - 📚 Tutoring and mentorship in AI/ML & Robotics
 
