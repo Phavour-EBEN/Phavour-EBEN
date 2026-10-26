@@ -145,11 +145,11 @@ me.say_hi()
 
 ---
 
-## 📅 Contribution Calendar
+## 🏆 GitHub Trophies
 
 <div align="center">
   
-<img width="98%" src="./metrics.plugin.isocalendar.svg" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Phavour-EBEN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
