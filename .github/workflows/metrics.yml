@@ -1,0 +1,29 @@
+name: Generate Metrics
+
+on:
+  # Run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *"
+
+  # Allows manual workflow run from Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Generate the achievements card and commit it to main
+      - name: Generate achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B

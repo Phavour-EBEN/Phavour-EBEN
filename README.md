@@ -143,19 +143,13 @@ me.say_hi()
 
 </div>
 
-<div align="center">
-
-<img width="98%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Phavour-EBEN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="98%" src="./metrics.plugin.achievements.svg" />
 
 </div>
 
