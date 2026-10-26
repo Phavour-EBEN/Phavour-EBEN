@@ -145,11 +145,11 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 📅 Contribution Calendar
 
 <div align="center">
   
-<img width="98%" src="./metrics.plugin.achievements.svg" />
+<img width="98%" src="./metrics.plugin.isocalendar.svg" />
 
 </div>
 

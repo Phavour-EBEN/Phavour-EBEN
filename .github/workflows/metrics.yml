@@ -16,14 +16,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Generate the achievements card and commit it to main
-      - name: Generate achievements
+      # Generate the isometric contribution calendar and commit it
+      - name: Generate isocalendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
