@@ -16,6 +16,10 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # The action commits its output, so it needs a git checkout to work in
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       # Generate the cards into profile-summary-card-output/ and commit them to main
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
