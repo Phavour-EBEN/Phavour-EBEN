@@ -138,7 +138,7 @@ me.say_hi()
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Phavour-EBEN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="./profile-summary-card-output/radical/1-repos-per-language.svg" />
 <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 </div>
